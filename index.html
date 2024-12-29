@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thisufuture - Tarot Reading</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 data-i18n="title">Thisufuture</h1>
+        <div class="language-switch">
+            <button id="en-btn">English</button>
+            <button id="zh-btn">中文</button>
+        </div>
+    </header>
+
+    <main>
+        <section id="intro">
+            <p data-i18n="intro">Welcome to Thisufuture! Discover what the Tarot has in store for you.</p>
+        </section>
+
+        <section id="tarot-test">
+            <button id="start-test" data-i18n="start_test">Start Tarot Test</button>
+        </section>
+
+        <section id="tarot-result" class="hidden">
+            <div class="card-container">
+                <img id="selected-card" src="" alt="Tarot Card">
+                <div class="card-description">
+                    <h2 id="card-name"></h2>
+                    <p id="card-meaning"></p>
+                </div>
+            </div>
+            <button id="another-test" data-i18n="another_test">Another Test</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Thisufuture</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
