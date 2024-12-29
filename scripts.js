@@ -896,9 +896,6 @@ startTestBtn.addEventListener('click', startTarotTest);
 // 重新测试按钮事件
 anotherTestBtn.addEventListener('click', resetTest);
 
-// 初始化语言
-switchLanguage(currentLanguage);
-
 // 翻译文本
 const translations = {
     title: {
@@ -939,6 +936,9 @@ function switchLanguage(lang) {
         enBtn.classList.remove('active');
     }
 }
+
+// 初始化语言
+switchLanguage(currentLanguage);
 
 // 函数：开始塔罗测试
 function startTarotTest() {
