@@ -511,7 +511,7 @@ const tarotCards = [
             zh: "神圣的爱，幸福的关系，和谐，一致。"
         },
         image: "images/SHENGBEI10.webp"
-    }
+    },
     {
         name: {
             en: "Page of Cups",
