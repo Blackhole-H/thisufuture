@@ -10,7 +10,7 @@ const tarotCards = [
             en: "Beginnings, innocence, spontaneity, a free spirit.",
             zh: "开始，纯真，自发，独立精神。"
         },
-        image: "images/THE FOOL.webp"
+        image: "images/THE_FOOL.webp"
     },
     {
         name: {
@@ -21,7 +21,7 @@ const tarotCards = [
             en: "Manifestation, resourcefulness, power, inspired action.",
             zh: "实现，足智多谋，力量，有启发的行动。"
         },
-        image: "images/THE MAGICIAN.webp"
+        image: "images/THE_MAGICIAN.webp"
     },
     {
         name: {
@@ -32,7 +32,7 @@ const tarotCards = [
             en: "Intuition, sacred knowledge, divine feminine, the subconscious mind.",
             zh: "直觉，神圣知识，神圣女性，潜意识。"
         },
-        image: "images/THE HIGH PRIESTESS.webp"
+        image: "images/THE_HIGH_PRIESTESS.webp"
     },
     {
         name: {
@@ -43,7 +43,7 @@ const tarotCards = [
             en: "Femininity, beauty, nature, nurturing, abundance.",
             zh: "女性气质，美丽，自然，养育，丰盛。"
         },
-        image: "images/THE EMPRESS.webp"
+        image: "images/THE_EMPRESS.webp"
     },
     {
         name: {
@@ -54,7 +54,7 @@ const tarotCards = [
             en: "Authority, establishment, structure, a father figure.",
             zh: "权威，建立，结构，父亲形象。"
         },
-        image: "images/THE EMPEROR.webp"
+        image: "images/THE_EMPEROR.webp"
     },
     {
         name: {
@@ -65,7 +65,7 @@ const tarotCards = [
             en: "Tradition, conformity, morality, guidance.",
             zh: "传统，遵从，道德，指导。"
         },
-        image: "images/THE HIEROPHANT.webp"
+        image: "images/THE_HIEROPHANT.webp"
     },
     {
         name: {
@@ -76,7 +76,7 @@ const tarotCards = [
             en: "Love, harmony, relationships, values alignment, choices.",
             zh: "爱情，和谐，关系，价值观对齐，选择。"
         },
-        image: "images/THE LOVERS.webp"
+        image: "images/THE_LOVERS.webp"
     },
     {
         name: {
@@ -87,7 +87,7 @@ const tarotCards = [
             en: "Control, willpower, victory, assertion, determination.",
             zh: "控制，意志力，胜利，主张，决心。"
         },
-        image: "images/THE CHARIOT.webp"
+        image: "images/THE_CHARIOT.webp"
     },
     {
         name: {
@@ -109,7 +109,7 @@ const tarotCards = [
             en: "Soul-searching, introspection, being alone, inner guidance.",
             zh: "寻求灵魂，内省，独处，内在指导。"
         },
-        image: "images/THE HERMIT.webp"
+        image: "images/THE_HERMIT.webp"
     },
     {
         name: {
@@ -120,7 +120,7 @@ const tarotCards = [
             en: "Good luck, karma, life cycles, destiny, a turning point.",
             zh: "好运，因果，生命周期，命运，转折点。"
         },
-        image: "images/WHEEL FORTUNE.webp"
+        image: "images/WHEEL_FORTUNE.webp"
     },
     {
         name: {
@@ -142,7 +142,7 @@ const tarotCards = [
             en: "Pause, surrender, letting go, new perspectives.",
             zh: "暂停，投降，放手，新视角。"
         },
-        image: "images/THE HANGED MAN.webp"
+        image: "images/THE_HANGED_MAN.webp"
     },
     {
         name: {
@@ -175,7 +175,7 @@ const tarotCards = [
             en: "Shadow self, attachment, addiction, restriction, sexuality.",
             zh: "阴影自我，依附，成瘾，限制，性。"
         },
-        image: "images/THE DEVIL.webp"
+        image: "images/THE_DEVIL.webp"
     },
     {
         name: {
@@ -186,7 +186,7 @@ const tarotCards = [
             en: "Sudden change, upheaval, chaos, revelation, awakening.",
             zh: "突然变化，动荡，混乱，启示，觉醒。"
         },
-        image: "images/THE TOWER.webp"
+        image: "images/THE_TOWER.webp"
     },
     {
         name: {
@@ -197,7 +197,7 @@ const tarotCards = [
             en: "Hope, faith, purpose, renewal, spirituality.",
             zh: "希望，信念，目的，更新，精神性。"
         },
-        image: "images/THE STAR.webp"
+        image: "images/THE_STAR.webp"
     },
     {
         name: {
@@ -208,7 +208,7 @@ const tarotCards = [
             en: "Illusion, fear, anxiety, subconscious, intuition.",
             zh: "幻觉，恐惧，焦虑，潜意识，直觉。"
         },
-        image: "images/The MOON.webp"
+        image: "images/THE_MOON.webp"
     },
     {
         name: {
@@ -219,7 +219,7 @@ const tarotCards = [
             en: "Positivity, fun, warmth, success, vitality.",
             zh: "积极，乐趣，温暖，成功，活力。"
         },
-        image: "images/THE SUN.webp"
+        image: "images/THE_SUN.webp"
     },
     {
         name: {
@@ -241,7 +241,7 @@ const tarotCards = [
             en: "Completion, integration, accomplishment, travel.",
             zh: "完成，整合，成就，旅行。"
         },
-        image: "images/THE WORLD.webp"
+        image: "images/THE_WORLD.webp"
     },
 
     // 小阿卡那（Minor Arcana）
@@ -255,7 +255,7 @@ const tarotCards = [
             en: "Inspiration, new opportunities, growth, potential.",
             zh: "灵感，新机会，成长，潜力。"
         },
-        image: "images/ACE WANDS.webp"
+        image: "images/ACE_WANDS.webp"
     },
     {
         name: {
@@ -365,7 +365,7 @@ const tarotCards = [
             en: "Enthusiasm, exploration, discovery, free spirit.",
             zh: "热情，探索，发现，独立精神。"
         },
-        image: "images/PAGE WANDS.webp"
+        image: "images/PAGE_WANDS.webp"
     },
     {
         name: {
@@ -376,7 +376,7 @@ const tarotCards = [
             en: "Energy, passion, inspired action, adventure.",
             zh: "能量，激情，有启发的行动，冒险。"
         },
-        image: "images/KNIGHT WANDS.webp"
+        image: "images/KNIGHT_WANDS.webp"
     },
     {
         name: {
@@ -387,7 +387,7 @@ const tarotCards = [
             en: "Courage, confidence, independence, social butterfly.",
             zh: "勇气，自信，独立，社交达人。"
         },
-        image: "images/QUEEN WANDS.webp"
+        image: "images/QUEEN_WANDS.webp"
     },
     {
         name: {
@@ -398,7 +398,7 @@ const tarotCards = [
             en: "Leadership, vision, entrepreneur, honor.",
             zh: "领导力，愿景，企业家，荣誉。"
         },
-        image: "images/KING WANDS.webp"
+        image: "images/KING_WANDS.webp"
     },
 
     // 圣杯（Cups）
@@ -411,8 +411,107 @@ const tarotCards = [
             en: "Emotional fulfillment, new relationships, compassion.",
             zh: "情感满足，新关系，怜悯。"
         },
-        image: "images/ACE CUPS.webp"
+        image: "images/ACE_CUPS.webp"
     },
+    {
+        name: {
+            en: "Two of Cups",
+            zh: "圣杯二"
+        },
+        meaning: {
+            en: "Unified love, partnership, mutual attraction.",
+            zh: "爱意的结合，合作关系，互相吸引。"
+        },
+        image: "images/SHENGBEI2.webp"
+    },
+    {
+        name: {
+            en: "Three of Cups",
+            zh: "圣杯三"
+        },
+        meaning: {
+            en: "Celebration, friendship, creativity, collaboration.",
+            zh: "庆祝，友谊，创造力，合作。"
+        },
+        image: "images/SHENGBEI3.webp"
+    },
+    {
+        name: {
+            en: "Four of Cups",
+            zh: "圣杯四"
+        },
+        meaning: {
+            en: "Meditation, contemplation, apathy, reevaluation.",
+            zh: "冥想，深思，冷漠，重新评估。"
+        },
+        image: "images/SHENGBEI4.webp"
+    },
+    {
+        name: {
+            en: "Five of Cups",
+            zh: "圣杯五"
+        },
+        meaning: {
+            en: "Regret, failure, disappointment, pessimism.",
+            zh: "遗憾，失败，失望，悲观。"
+        },
+        image: "images/SHENGBEI5.webp"
+    },
+    {
+        name: {
+            en: "Six of Cups",
+            zh: "圣杯六"
+        },
+        meaning: {
+            en: "Revisiting the past, childhood memories, innocence, joy.",
+            zh: "重温过去，童年记忆，纯真，快乐。"
+        },
+        image: "images/SHENGBEI6.webp"
+    },
+    {
+        name: {
+            en: "Seven of Cups",
+            zh: "圣杯七"
+        },
+        meaning: {
+            en: "Opportunities, choices, illusion, wishful thinking.",
+            zh: "机会，选择，幻想，空想。"
+        },
+        image: "images/SHENGBEI7.webp"
+    },
+    {
+        name: {
+            en: "Eight of Cups",
+            zh: "圣杯八"
+        },
+        meaning: {
+            en: "Disappointment, abandonment, withdrawal, escapism.",
+            zh: "失望，放弃，退缩，逃避。"
+        },
+        image: "images/SHENGBEI8.webp"
+    },
+    {
+        name: {
+            en: "Nine of Cups",
+            zh: "圣杯九"
+        },
+        meaning: {
+            en: "Contentment, satisfaction, gratitude, wish come true.",
+            zh: "满足，喜悦，感激，愿望成真。"
+        },
+        image: "images/SHENGBEI9.webp"
+    },
+    {
+        name: {
+            en: "Ten of Cups",
+            zh: "圣杯十"
+        },
+        meaning: {
+            en: "Divine love, blissful relationships, harmony, alignment.",
+            zh: "神圣的爱，幸福的关系，和谐，一致。"
+        },
+        image: "images/SHENGBEI10.webp"
+    }
     {
         name: {
             en: "Page of Cups",
@@ -422,7 +521,7 @@ const tarotCards = [
             en: "Creative opportunities, intuitive messages, curiosity.",
             zh: "创造性的机会，直觉的信息，好奇心。"
         },
-        image: "images/PAGE CUPS.webp"
+        image: "images/PAGE_CUPS.webp"
     },
     {
         name: {
@@ -433,7 +532,7 @@ const tarotCards = [
             en: "Romance, charm, imagination, beauty, creativity.",
             zh: "浪漫，魅力，想象，美丽，创造力。"
         },
-        image: "images/KNIGHT CUPS.webp"
+        image: "images/KNIGHT_CUPS.webp"
     },
     {
         name: {
@@ -444,7 +543,7 @@ const tarotCards = [
             en: "Compassionate, caring, emotionally stable, intuitive.",
             zh: "富有同情心，关怀，情感稳定，直觉。"
         },
-        image: "images/QUEEN CUPS.webp"
+        image: "images/QUEEN_CUPS.webp"
     },
     {
         name: {
@@ -455,7 +554,7 @@ const tarotCards = [
             en: "Emotionally balanced, compassionate, diplomatic.",
             zh: "情感平衡，富有同情心，外交。"
         },
-        image: "images/KING CUPS.webp"
+        image: "images/KING_CUPS.webp"
     },
 
     // 剑（Swords）
@@ -468,7 +567,7 @@ const tarotCards = [
             en: "Breakthroughs, new ideas, mental clarity, success.",
             zh: "突破，新想法，精神清晰，成功。"
         },
-        image: "images/ACE SWORDS.webp"
+        image: "images/ACE_SWORDS.webp"
     },
     {
         name: {
@@ -556,7 +655,7 @@ const tarotCards = [
             en: "Anxiety, worry, fear, depression, nightmares.",
             zh: "焦虑，担忧，恐惧，抑郁，噩梦。"
         },
-        image: "images/SHENGBEI9.webp"
+        image: "images/SWORDS9.webp"
     },
     {
         name: {
@@ -578,7 +677,7 @@ const tarotCards = [
             en: "Curiosity, restlessness, mental energy, communication.",
             zh: "好奇，躁动，精神能量，沟通。"
         },
-        image: "images/PAGE SWORDS.webp"
+        image: "images/PAGE_SWORDS.webp"
     },
     {
         name: {
@@ -589,7 +688,7 @@ const tarotCards = [
             en: "Action-oriented, ambitious, driven to succeed, fast thinking.",
             zh: "行动导向，有雄心，驱动力强，思维迅速。"
         },
-        image: "images/KNIGHT SWORDS.webp"
+        image: "images/KNIGHT_SWORDS.webp"
     },
     {
         name: {
@@ -600,7 +699,7 @@ const tarotCards = [
             en: "Independent, unbiased judgment, clear boundaries, direct communication.",
             zh: "独立，公正判断，明确界限，直接沟通。"
         },
-        image: "images/QUEEN SWORDS.webp"
+        image: "images/QUEEN_SWORDS.webp"
     },
     {
         name: {
@@ -611,7 +710,7 @@ const tarotCards = [
             en: "Intellectual, authoritative, strategic thinker, truth seeker.",
             zh: "智者，权威，战略思考者，真理追求者。"
         },
-        image: "images/KING SWORDS.webp"
+        image: "images/KING_SWORDS.webp"
     },
 
     // 星币（Pentacles）
@@ -624,7 +723,7 @@ const tarotCards = [
             en: "New financial or career opportunity, manifestation, abundance.",
             zh: "新的财务或职业机会，显化，丰盛。"
         },
-        image: "images/ACE PENTACLES.webp"
+        image: "images/ACE_PENTACLES.webp"
     },
     {
         name: {
@@ -734,7 +833,7 @@ const tarotCards = [
             en: "Manifestation, financial opportunity, skill development.",
             zh: "显化，财务机会，技能发展。"
         },
-        image: "images/PAGE PENTACLES.webp"
+        image: "images/PAGE_PENTACLES.webp"
     },
     {
         name: {
@@ -745,7 +844,7 @@ const tarotCards = [
             en: "Hard work, productivity, routine, conservatism.",
             zh: "辛勤工作，生产力，日常，保守。"
         },
-        image: "images/KNIGHT PENTACLES.webp"
+        image: "images/KNIGHT_PENTACLES.webp"
     },
     {
         name: {
@@ -756,7 +855,7 @@ const tarotCards = [
             en: "Practicality, creature comforts, financial security, nurturing.",
             zh: "务实，舒适，财务安全，养育。"
         },
-        image: "images/QUEEN PENTACLES.webp"
+        image: "images/QUEEN_PENTACLES.webp"
     },
     {
         name: {
@@ -767,2151 +866,9 @@ const tarotCards = [
             en: "Wealth, business, leadership, security, discipline.",
             zh: "财富，商业，领导力，安全，纪律。"
         },
-        image: "images/KING PENTACLES.webp"
-    },
-
-    // 剑（Swords）
-    {
-        name: {
-            en: "Ace of Swords",
-            zh: "剑王牌"
-        },
-        meaning: {
-            en: "Breakthroughs, new ideas, mental clarity, success.",
-            zh: "突破，新想法，精神清晰，成功。"
-        },
-        image: "images/ACE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Swords",
-            zh: "剑二"
-        },
-        meaning: {
-            en: "Difficult choices, indecision, stalemate, blocked emotions.",
-            zh: "艰难选择，优柔寡断，僵局，情感阻塞。"
-        },
-        image: "images/SWORDS2.webp"
-    },
-    {
-        name: {
-            en: "Three of Swords",
-            zh: "剑三"
-        },
-        meaning: {
-            en: "Heartbreak, emotional pain, sorrow, grief.",
-            zh: "心碎，情感痛苦，悲伤，悲痛。"
-        },
-        image: "images/SHENGBEl3.webp"
-    },
-    {
-        name: {
-            en: "Four of Swords",
-            zh: "剑四"
-        },
-        meaning: {
-            en: "Rest, relaxation, meditation, contemplation.",
-            zh: "休息，放松，冥想，沉思。"
-        },
-        image: "images/SWORDS4.webp"
-    },
-    {
-        name: {
-            en: "Five of Swords",
-            zh: "剑五"
-        },
-        meaning: {
-            en: "Conflict, disagreements, competition, defeat.",
-            zh: "冲突，分歧，竞争，失败。"
-        },
-        image: "images/SWORDS5.webp"
-    },
-    {
-        name: {
-            en: "Six of Swords",
-            zh: "剑六"
-        },
-        meaning: {
-            en: "Transition, change, rite of passage, releasing baggage.",
-            zh: "过渡，变化，仪式通行，释放包袱。"
-        },
-        image: "images/SWORDS6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Swords",
-            zh: "剑七"
-        },
-        meaning: {
-            en: "Betrayal, deception, getting away with something.",
-            zh: "背叛，欺骗，逃避责任。"
-        },
-        image: "images/SHENGBEl6.webp"
-    },
-    {
-        name: {
-            en: "Eight of Swords",
-            zh: "剑八"
-        },
-        meaning: {
-            en: "Self-imposed restriction, fear, isolation, imprisonment.",
-            zh: "自我限制，恐惧，孤立，监禁。"
-        },
-        image: "images/SWORDS8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Swords",
-            zh: "剑九"
-        },
-        meaning: {
-            en: "Anxiety, worry, fear, depression, nightmares.",
-            zh: "焦虑，担忧，恐惧，抑郁，噩梦。"
-        },
-        image: "images/SHENGBEI9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Swords",
-            zh: "剑十"
-        },
-        meaning: {
-            en: "Endings, betrayal, loss, crisis, failure.",
-            zh: "结束，背叛，失落，危机，失败。"
-        },
-        image: "images/SWORDS10.webp"
-    },
-    {
-        name: {
-            en: "Page of Swords",
-            zh: "剑侍者"
-        },
-        meaning: {
-            en: "Curiosity, restlessness, mental energy, communication.",
-            zh: "好奇，躁动，精神能量，沟通。"
-        },
-        image: "images/PAGE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Swords",
-            zh: "剑骑士"
-        },
-        meaning: {
-            en: "Action-oriented, ambitious, driven to succeed, fast thinking.",
-            zh: "行动导向，有雄心，驱动力强，思维迅速。"
-        },
-        image: "images/KNIGHT SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Swords",
-            zh: "剑王后"
-        },
-        meaning: {
-            en: "Independent, unbiased judgment, clear boundaries, direct communication.",
-            zh: "独立，公正判断，明确界限，直接沟通。"
-        },
-        image: "images/QUEEN SWORDS.webp"
-    },
-    {
-        name: {
-            en: "King of Swords",
-            zh: "剑国王"
-        },
-        meaning: {
-            en: "Intellectual, authoritative, strategic thinker, truth seeker.",
-            zh: "智者，权威，战略思考者，真理追求者。"
-        },
-        image: "images/KING SWORDS.webp"
-    },
-
-    // 星币（Pentacles）
-    {
-        name: {
-            en: "Ace of Pentacles",
-            zh: "星币王牌"
-        },
-        meaning: {
-            en: "New financial or career opportunity, manifestation, abundance.",
-            zh: "新的财务或职业机会，显化，丰盛。"
-        },
-        image: "images/ACE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Two of Pentacles",
-            zh: "星币二"
-        },
-        meaning: {
-            en: "Balance, adaptability, time management, prioritization.",
-            zh: "平衡，适应性，时间管理，优先级。"
-        },
-        image: "images/PENTACLE2.webp"
-    },
-    {
-        name: {
-            en: "Three of Pentacles",
-            zh: "星币三"
-        },
-        meaning: {
-            en: "Teamwork, collaboration, learning, implementation.",
-            zh: "团队合作，协作，学习，实施。"
-        },
-        image: "images/PENTACLE3.webp"
-    },
-    {
-        name: {
-            en: "Four of Pentacles",
-            zh: "星币四"
-        },
-        meaning: {
-            en: "Control, stability, security, conservatism.",
-            zh: "控制，稳定，安全，保守。"
-        },
-        image: "images/PENTACLE4.webp"
-    },
-    {
-        name: {
-            en: "Five of Pentacles",
-            zh: "星币五"
-        },
-        meaning: {
-            en: "Financial loss, poverty, insecurity, worry, health issues.",
-            zh: "财务损失，贫困，不安全，担忧，健康问题。"
-        },
-        image: "images/PENTACLE5.webp"
-    },
-    {
-        name: {
-            en: "Six of Pentacles",
-            zh: "星币六"
-        },
-        meaning: {
-            en: "Generosity, charity, sharing wealth, balance between giving and receiving.",
-            zh: "慷慨，慈善，共享财富，给予与接受之间的平衡。"
-        },
-        image: "images/PENTACLE6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Pentacles",
-            zh: "星币七"
-        },
-        meaning: {
-            en: "Patience, perseverance, investment, growth, assessment.",
-            zh: "耐心，坚持，投资，成长，评估。"
-        },
-        image: "images/PENTACLE7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Pentacles",
-            zh: "星币八"
-        },
-        meaning: {
-            en: "Apprenticeship, education, training, improvement, dedication.",
-            zh: "学徒，教育，培训，改进，奉献。"
-        },
-        image: "images/PENTACLE8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Pentacles",
-            zh: "星币九"
-        },
-        meaning: {
-            en: "Luxury, self-sufficiency, financial gain, independence.",
-            zh: "奢华，自给自足，财务收益，独立。"
-        },
-        image: "images/PENTACLE9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Pentacles",
-            zh: "星币十"
-        },
-        meaning: {
-            en: "Wealth, financial security, family, long-term success, legacy.",
-            zh: "财富，财务安全，家庭，长期成功，遗产。"
-        },
-        image: "images/PENTACLE10.webp"
-    },
-    {
-        name: {
-            en: "Page of Pentacles",
-            zh: "星币侍者"
-        },
-        meaning: {
-            en: "Manifestation, financial opportunity, skill development.",
-            zh: "显化，财务机会，技能发展。"
-        },
-        image: "images/PAGE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Knight of Pentacles",
-            zh: "星币骑士"
-        },
-        meaning: {
-            en: "Hard work, productivity, routine, conservatism.",
-            zh: "辛勤工作，生产力，日常，保守。"
-        },
-        image: "images/KNIGHT PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Queen of Pentacles",
-            zh: "星币王后"
-        },
-        meaning: {
-            en: "Practicality, creature comforts, financial security, nurturing.",
-            zh: "务实，舒适，财务安全，养育。"
-        },
-        image: "images/QUEEN PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "King of Pentacles",
-            zh: "星币国王"
-        },
-        meaning: {
-            en: "Wealth, business, leadership, security, discipline.",
-            zh: "财富，商业，领导力，安全，纪律。"
-        },
-        image: "images/KING PENTACLES.webp"
-    },
-
-    // 剑（Swords）
-    {
-        name: {
-            en: "Ace of Swords",
-            zh: "剑王牌"
-        },
-        meaning: {
-            en: "Breakthroughs, new ideas, mental clarity, success.",
-            zh: "突破，新想法，精神清晰，成功。"
-        },
-        image: "images/ACE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Swords",
-            zh: "剑二"
-        },
-        meaning: {
-            en: "Difficult choices, indecision, stalemate, blocked emotions.",
-            zh: "艰难选择，优柔寡断，僵局，情感阻塞。"
-        },
-        image: "images/SWORDS2.webp"
-    },
-    {
-        name: {
-            en: "Three of Swords",
-            zh: "剑三"
-        },
-        meaning: {
-            en: "Heartbreak, emotional pain, sorrow, grief.",
-            zh: "心碎，情感痛苦，悲伤，悲痛。"
-        },
-        image: "images/SHENGBEl3.webp"
-    },
-    {
-        name: {
-            en: "Four of Swords",
-            zh: "剑四"
-        },
-        meaning: {
-            en: "Rest, relaxation, meditation, contemplation.",
-            zh: "休息，放松，冥想，沉思。"
-        },
-        image: "images/SWORDS4.webp"
-    },
-    {
-        name: {
-            en: "Five of Swords",
-            zh: "剑五"
-        },
-        meaning: {
-            en: "Conflict, disagreements, competition, defeat.",
-            zh: "冲突，分歧，竞争，失败。"
-        },
-        image: "images/SWORDS5.webp"
-    },
-    {
-        name: {
-            en: "Six of Swords",
-            zh: "剑六"
-        },
-        meaning: {
-            en: "Transition, change, rite of passage, releasing baggage.",
-            zh: "过渡，变化，仪式通行，释放包袱。"
-        },
-        image: "images/SWORDS6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Swords",
-            zh: "剑七"
-        },
-        meaning: {
-            en: "Betrayal, deception, getting away with something.",
-            zh: "背叛，欺骗，逃避责任。"
-        },
-        image: "images/SHENGBEl6.webp"
-    },
-    {
-        name: {
-            en: "Eight of Swords",
-            zh: "剑八"
-        },
-        meaning: {
-            en: "Self-imposed restriction, fear, isolation, imprisonment.",
-            zh: "自我限制，恐惧，孤立，监禁。"
-        },
-        image: "images/SWORDS8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Swords",
-            zh: "剑九"
-        },
-        meaning: {
-            en: "Anxiety, worry, fear, depression, nightmares.",
-            zh: "焦虑，担忧，恐惧，抑郁，噩梦。"
-        },
-        image: "images/SHENGBEI9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Swords",
-            zh: "剑十"
-        },
-        meaning: {
-            en: "Endings, betrayal, loss, crisis, failure.",
-            zh: "结束，背叛，失落，危机，失败。"
-        },
-        image: "images/SWORDS10.webp"
-    },
-    {
-        name: {
-            en: "Page of Swords",
-            zh: "剑侍者"
-        },
-        meaning: {
-            en: "Curiosity, restlessness, mental energy, communication.",
-            zh: "好奇，躁动，精神能量，沟通。"
-        },
-        image: "images/PAGE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Swords",
-            zh: "剑骑士"
-        },
-        meaning: {
-            en: "Action-oriented, ambitious, driven to succeed, fast thinking.",
-            zh: "行动导向，有雄心，驱动力强，思维迅速。"
-        },
-        image: "images/KNIGHT SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Swords",
-            zh: "剑王后"
-        },
-        meaning: {
-            en: "Independent, unbiased judgment, clear boundaries, direct communication.",
-            zh: "独立，公正判断，明确界限，直接沟通。"
-        },
-        image: "images/QUEEN SWORDS.webp"
-    },
-    {
-        name: {
-            en: "King of Swords",
-            zh: "剑国王"
-        },
-        meaning: {
-            en: "Intellectual, authoritative, strategic thinker, truth seeker.",
-            zh: "智者，权威，战略思考者，真理追求者。"
-        },
-        image: "images/KING SWORDS.webp"
-    },
-
-    // 星币（Pentacles）
-    {
-        name: {
-            en: "Ace of Pentacles",
-            zh: "星币王牌"
-        },
-        meaning: {
-            en: "New financial or career opportunity, manifestation, abundance.",
-            zh: "新的财务或职业机会，显化，丰盛。"
-        },
-        image: "images/ACE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Two of Pentacles",
-            zh: "星币二"
-        },
-        meaning: {
-            en: "Balance, adaptability, time management, prioritization.",
-            zh: "平衡，适应性，时间管理，优先级。"
-        },
-        image: "images/PENTACLE2.webp"
-    },
-    {
-        name: {
-            en: "Three of Pentacles",
-            zh: "星币三"
-        },
-        meaning: {
-            en: "Teamwork, collaboration, learning, implementation.",
-            zh: "团队合作，协作，学习，实施。"
-        },
-        image: "images/PENTACLE3.webp"
-    },
-    {
-        name: {
-            en: "Four of Pentacles",
-            zh: "星币四"
-        },
-        meaning: {
-            en: "Control, stability, security, conservatism.",
-            zh: "控制，稳定，安全，保守。"
-        },
-        image: "images/PENTACLE4.webp"
-    },
-    {
-        name: {
-            en: "Five of Pentacles",
-            zh: "星币五"
-        },
-        meaning: {
-            en: "Financial loss, poverty, insecurity, worry, health issues.",
-            zh: "财务损失，贫困，不安全，担忧，健康问题。"
-        },
-        image: "images/PENTACLE5.webp"
-    },
-    {
-        name: {
-            en: "Six of Pentacles",
-            zh: "星币六"
-        },
-        meaning: {
-            en: "Generosity, charity, sharing wealth, balance between giving and receiving.",
-            zh: "慷慨，慈善，共享财富，给予与接受之间的平衡。"
-        },
-        image: "images/PENTACLE6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Pentacles",
-            zh: "星币七"
-        },
-        meaning: {
-            en: "Patience, perseverance, investment, growth, assessment.",
-            zh: "耐心，坚持，投资，成长，评估。"
-        },
-        image: "images/PENTACLE7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Pentacles",
-            zh: "星币八"
-        },
-        meaning: {
-            en: "Apprenticeship, education, training, improvement, dedication.",
-            zh: "学徒，教育，培训，改进，奉献。"
-        },
-        image: "images/PENTACLE8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Pentacles",
-            zh: "星币九"
-        },
-        meaning: {
-            en: "Luxury, self-sufficiency, financial gain, independence.",
-            zh: "奢华，自给自足，财务收益，独立。"
-        },
-        image: "images/PENTACLE9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Pentacles",
-            zh: "星币十"
-        },
-        meaning: {
-            en: "Wealth, financial security, family, long-term success, legacy.",
-            zh: "财富，财务安全，家庭，长期成功，遗产。"
-        },
-        image: "images/PENTACLE10.webp"
-    },
-    {
-        name: {
-            en: "Page of Pentacles",
-            zh: "星币侍者"
-        },
-        meaning: {
-            en: "Manifestation, financial opportunity, skill development.",
-            zh: "显化，财务机会，技能发展。"
-        },
-        image: "images/PAGE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Knight of Pentacles",
-            zh: "星币骑士"
-        },
-        meaning: {
-            en: "Hard work, productivity, routine, conservatism.",
-            zh: "辛勤工作，生产力，日常，保守。"
-        },
-        image: "images/KNIGHT PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Queen of Pentacles",
-            zh: "星币王后"
-        },
-        meaning: {
-            en: "Practicality, creature comforts, financial security, nurturing.",
-            zh: "务实，舒适，财务安全，养育。"
-        },
-        image: "images/QUEEN PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "King of Pentacles",
-            zh: "星币国王"
-        },
-        meaning: {
-            en: "Wealth, business, leadership, security, discipline.",
-            zh: "财富，商业，领导力，安全，纪律。"
-        },
-        image: "images/KING PENTACLES.webp"
-    },
-
-    // 权杖（Wands）
-    {
-        name: {
-            en: "Ace of Wands",
-            zh: "权杖王牌"
-        },
-        meaning: {
-            en: "Inspiration, new opportunities, growth, potential.",
-            zh: "灵感，新机会，成长，潜力。"
-        },
-        image: "images/ACE WANDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Wands",
-            zh: "权杖二"
-        },
-        meaning: {
-            en: "Future planning, progress, decisions, discovery.",
-            zh: "未来规划，进展，决策，发现。"
-        },
-        image: "images/QUANZHANG2.webp"
-    },
-    {
-        name: {
-            en: "Three of Wands",
-            zh: "权杖三"
-        },
-        meaning: {
-            en: "Looking ahead, expansion, overseas opportunities.",
-            zh: "展望，扩展，海外机会。"
-        },
-        image: "images/QUANZHANG3.webp"
-    },
-    {
-        name: {
-            en: "Four of Wands",
-            zh: "权杖四"
-        },
-        meaning: {
-            en: "Celebration, harmony, marriage, home, community.",
-            zh: "庆祝，和谐，婚姻，家庭，社区。"
-        },
-        image: "images/QUANZHANG4.webp"
-    },
-    {
-        name: {
-            en: "Five of Wands",
-            zh: "权杖五"
-        },
-        meaning: {
-            en: "Conflict, competition, diversity, challenges.",
-            zh: "冲突，竞争，多样性，挑战。"
-        },
-        image: "images/QUANZHANG5.webp"
-    },
-    {
-        name: {
-            en: "Six of Wands",
-            zh: "权杖六"
-        },
-        meaning: {
-            en: "Victory, success, public recognition.",
-            zh: "胜利，成功，公众认可。"
-        },
-        image: "images/QUANZHANG6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Wands",
-            zh: "权杖七"
-        },
-        meaning: {
-            en: "Perseverance, defense, maintaining control.",
-            zh: "毅力，防御，保持控制。"
-        },
-        image: "images/QUANZHANG7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Wands",
-            zh: "权杖八"
-        },
-        meaning: {
-            en: "Movement, fast-paced change, action, alignment.",
-            zh: "移动，快速变化，行动，对齐。"
-        },
-        image: "images/QUANZHANG8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Wands",
-            zh: "权杖九"
-        },
-        meaning: {
-            en: "Resilience, courage, persistence, test of faith.",
-            zh: "韧性，勇气，坚持，信念的考验。"
-        },
-        image: "images/QUANZHANG9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Wands",
-            zh: "权杖十"
-        },
-        meaning: {
-            en: "Burden, responsibility, hard work, stress.",
-            zh: "负担，责任，辛勤工作，压力。"
-        },
-        image: "images/QUANZHANG10.webp"
-    },
-    {
-        name: {
-            en: "Page of Wands",
-            zh: "权杖侍者"
-        },
-        meaning: {
-            en: "Enthusiasm, exploration, discovery, free spirit.",
-            zh: "热情，探索，发现，独立精神。"
-        },
-        image: "images/PAGE WANDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Wands",
-            zh: "权杖骑士"
-        },
-        meaning: {
-            en: "Energy, passion, inspired action, adventure.",
-            zh: "能量，激情，有启发的行动，冒险。"
-        },
-        image: "images/KNIGHT WANDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Wands",
-            zh: "权杖王后"
-        },
-        meaning: {
-            en: "Courage, confidence, independence, social butterfly.",
-            zh: "勇气，自信，独立，社交达人。"
-        },
-        image: "images/QUEEN WANDS.webp"
-    },
-    {
-        name: {
-            en: "King of Wands",
-            zh: "权杖国王"
-        },
-        meaning: {
-            en: "Leadership, vision, entrepreneur, honor.",
-            zh: "领导力，愿景，企业家，荣誉。"
-        },
-        image: "images/KING WANDS.webp"
-    },
-
-    // 剑（Swords）
-    {
-        name: {
-            en: "Ace of Swords",
-            zh: "剑王牌"
-        },
-        meaning: {
-            en: "Breakthroughs, new ideas, mental clarity, success.",
-            zh: "突破，新想法，精神清晰，成功。"
-        },
-        image: "images/ACE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Swords",
-            zh: "剑二"
-        },
-        meaning: {
-            en: "Difficult choices, indecision, stalemate, blocked emotions.",
-            zh: "艰难选择，优柔寡断，僵局，情感阻塞。"
-        },
-        image: "images/SWORDS2.webp"
-    },
-    {
-        name: {
-            en: "Three of Swords",
-            zh: "剑三"
-        },
-        meaning: {
-            en: "Heartbreak, emotional pain, sorrow, grief.",
-            zh: "心碎，情感痛苦，悲伤，悲痛。"
-        },
-        image: "images/SHENGBEl3.webp"
-    },
-    {
-        name: {
-            en: "Four of Swords",
-            zh: "剑四"
-        },
-        meaning: {
-            en: "Rest, relaxation, meditation, contemplation.",
-            zh: "休息，放松，冥想，沉思。"
-        },
-        image: "images/SWORDS4.webp"
-    },
-    {
-        name: {
-            en: "Five of Swords",
-            zh: "剑五"
-        },
-        meaning: {
-            en: "Conflict, disagreements, competition, defeat.",
-            zh: "冲突，分歧，竞争，失败。"
-        },
-        image: "images/SWORDS5.webp"
-    },
-    {
-        name: {
-            en: "Six of Swords",
-            zh: "剑六"
-        },
-        meaning: {
-            en: "Transition, change, rite of passage, releasing baggage.",
-            zh: "过渡，变化，仪式通行，释放包袱。"
-        },
-        image: "images/SWORDS6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Swords",
-            zh: "剑七"
-        },
-        meaning: {
-            en: "Betrayal, deception, getting away with something.",
-            zh: "背叛，欺骗，逃避责任。"
-        },
-        image: "images/SHENGBEl6.webp"
-    },
-    {
-        name: {
-            en: "Eight of Swords",
-            zh: "剑八"
-        },
-        meaning: {
-            en: "Self-imposed restriction, fear, isolation, imprisonment.",
-            zh: "自我限制，恐惧，孤立，监禁。"
-        },
-        image: "images/SWORDS8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Swords",
-            zh: "剑九"
-        },
-        meaning: {
-            en: "Anxiety, worry, fear, depression, nightmares.",
-            zh: "焦虑，担忧，恐惧，抑郁，噩梦。"
-        },
-        image: "images/SHENGBEI9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Swords",
-            zh: "剑十"
-        },
-        meaning: {
-            en: "Endings, betrayal, loss, crisis, failure.",
-            zh: "结束，背叛，失落，危机，失败。"
-        },
-        image: "images/SWORDS10.webp"
-    },
-    {
-        name: {
-            en: "Page of Swords",
-            zh: "剑侍者"
-        },
-        meaning: {
-            en: "Curiosity, restlessness, mental energy, communication.",
-            zh: "好奇，躁动，精神能量，沟通。"
-        },
-        image: "images/PAGE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Swords",
-            zh: "剑骑士"
-        },
-        meaning: {
-            en: "Action-oriented, ambitious, driven to succeed, fast thinking.",
-            zh: "行动导向，有雄心，驱动力强，思维迅速。"
-        },
-        image: "images/KNIGHT SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Swords",
-            zh: "剑王后"
-        },
-        meaning: {
-            en: "Independent, unbiased judgment, clear boundaries, direct communication.",
-            zh: "独立，公正判断，明确界限，直接沟通。"
-        },
-        image: "images/QUEEN SWORDS.webp"
-    },
-    {
-        name: {
-            en: "King of Swords",
-            zh: "剑国王"
-        },
-        meaning: {
-            en: "Intellectual, authoritative, strategic thinker, truth seeker.",
-            zh: "智者，权威，战略思考者，真理追求者。"
-        },
-        image: "images/KING SWORDS.webp"
-    },
-
-    // 权杖（Wands）
-    {
-        name: {
-            en: "Ace of Wands",
-            zh: "权杖王牌"
-        },
-        meaning: {
-            en: "Inspiration, new opportunities, growth, potential.",
-            zh: "灵感，新机会，成长，潜力。"
-        },
-        image: "images/ACE WANDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Wands",
-            zh: "权杖二"
-        },
-        meaning: {
-            en: "Future planning, progress, decisions, discovery.",
-            zh: "未来规划，进展，决策，发现。"
-        },
-        image: "images/QUANZHANG2.webp"
-    },
-    {
-        name: {
-            en: "Three of Wands",
-            zh: "权杖三"
-        },
-        meaning: {
-            en: "Looking ahead, expansion, overseas opportunities.",
-            zh: "展望，扩展，海外机会。"
-        },
-        image: "images/QUANZHANG3.webp"
-    },
-    {
-        name: {
-            en: "Four of Wands",
-            zh: "权杖四"
-        },
-        meaning: {
-            en: "Celebration, harmony, marriage, home, community.",
-            zh: "庆祝，和谐，婚姻，家庭，社区。"
-        },
-        image: "images/QUANZHANG4.webp"
-    },
-    {
-        name: {
-            en: "Five of Wands",
-            zh: "权杖五"
-        },
-        meaning: {
-            en: "Conflict, competition, diversity, challenges.",
-            zh: "冲突，竞争，多样性，挑战。"
-        },
-        image: "images/QUANZHANG5.webp"
-    },
-    {
-        name: {
-            en: "Six of Wands",
-            zh: "权杖六"
-        },
-        meaning: {
-            en: "Victory, success, public recognition.",
-            zh: "胜利，成功，公众认可。"
-        },
-        image: "images/QUANZHANG6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Wands",
-            zh: "权杖七"
-        },
-        meaning: {
-            en: "Perseverance, defense, maintaining control.",
-            zh: "毅力，防御，保持控制。"
-        },
-        image: "images/QUANZHANG7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Wands",
-            zh: "权杖八"
-        },
-        meaning: {
-            en: "Movement, fast-paced change, action, alignment.",
-            zh: "移动，快速变化，行动，对齐。"
-        },
-        image: "images/QUANZHANG8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Wands",
-            zh: "权杖九"
-        },
-        meaning: {
-            en: "Resilience, courage, persistence, test of faith.",
-            zh: "韧性，勇气，坚持，信念的考验。"
-        },
-        image: "images/QUANZHANG9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Wands",
-            zh: "权杖十"
-        },
-        meaning: {
-            en: "Burden, responsibility, hard work, stress.",
-            zh: "负担，责任，辛勤工作，压力。"
-        },
-        image: "images/QUANZHANG10.webp"
-    },
-    {
-        name: {
-            en: "Page of Wands",
-            zh: "权杖侍者"
-        },
-        meaning: {
-            en: "Enthusiasm, exploration, discovery, free spirit.",
-            zh: "热情，探索，发现，独立精神。"
-        },
-        image: "images/PAGE WANDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Wands",
-            zh: "权杖骑士"
-        },
-        meaning: {
-            en: "Energy, passion, inspired action, adventure.",
-            zh: "能量，激情，有启发的行动，冒险。"
-        },
-        image: "images/KNIGHT WANDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Wands",
-            zh: "权杖王后"
-        },
-        meaning: {
-            en: "Courage, confidence, independence, social butterfly.",
-            zh: "勇气，自信，独立，社交达人。"
-        },
-        image: "images/QUEEN WANDS.webp"
-    },
-    {
-        name: {
-            en: "King of Wands",
-            zh: "权杖国王"
-        },
-        meaning: {
-            en: "Leadership, vision, entrepreneur, honor.",
-            zh: "领导力，愿景，企业家，荣誉。"
-        },
-        image: "images/KING WANDS.webp"
-    },
-
-    // 星币（Pentacles）
-    {
-        name: {
-            en: "Ace of Pentacles",
-            zh: "星币王牌"
-        },
-        meaning: {
-            en: "New financial or career opportunity, manifestation, abundance.",
-            zh: "新的财务或职业机会，显化，丰盛。"
-        },
-        image: "images/ACE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Two of Pentacles",
-            zh: "星币二"
-        },
-        meaning: {
-            en: "Balance, adaptability, time management, prioritization.",
-            zh: "平衡，适应性，时间管理，优先级。"
-        },
-        image: "images/PENTACLE2.webp"
-    },
-    {
-        name: {
-            en: "Three of Pentacles",
-            zh: "星币三"
-        },
-        meaning: {
-            en: "Teamwork, collaboration, learning, implementation.",
-            zh: "团队合作，协作，学习，实施。"
-        },
-        image: "images/PENTACLE3.webp"
-    },
-    {
-        name: {
-            en: "Four of Pentacles",
-            zh: "星币四"
-        },
-        meaning: {
-            en: "Control, stability, security, conservatism.",
-            zh: "控制，稳定，安全，保守。"
-        },
-        image: "images/PENTACLE4.webp"
-    },
-    {
-        name: {
-            en: "Five of Pentacles",
-            zh: "星币五"
-        },
-        meaning: {
-            en: "Financial loss, poverty, insecurity, worry, health issues.",
-            zh: "财务损失，贫困，不安全，担忧，健康问题。"
-        },
-        image: "images/PENTACLE5.webp"
-    },
-    {
-        name: {
-            en: "Six of Pentacles",
-            zh: "星币六"
-        },
-        meaning: {
-            en: "Generosity, charity, sharing wealth, balance between giving and receiving.",
-            zh: "慷慨，慈善，共享财富，给予与接受之间的平衡。"
-        },
-        image: "images/PENTACLE6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Pentacles",
-            zh: "星币七"
-        },
-        meaning: {
-            en: "Patience, perseverance, investment, growth, assessment.",
-            zh: "耐心，坚持，投资，成长，评估。"
-        },
-        image: "images/PENTACLE7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Pentacles",
-            zh: "星币八"
-        },
-        meaning: {
-            en: "Apprenticeship, education, training, improvement, dedication.",
-            zh: "学徒，教育，培训，改进，奉献。"
-        },
-        image: "images/PENTACLE8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Pentacles",
-            zh: "星币九"
-        },
-        meaning: {
-            en: "Luxury, self-sufficiency, financial gain, independence.",
-            zh: "奢华，自给自足，财务收益，独立。"
-        },
-        image: "images/PENTACLE9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Pentacles",
-            zh: "星币十"
-        },
-        meaning: {
-            en: "Wealth, financial security, family, long-term success, legacy.",
-            zh: "财富，财务安全，家庭，长期成功，遗产。"
-        },
-        image: "images/PENTACLE10.webp"
-    },
-    {
-        name: {
-            en: "Page of Pentacles",
-            zh: "星币侍者"
-        },
-        meaning: {
-            en: "Manifestation, financial opportunity, skill development.",
-            zh: "显化，财务机会，技能发展。"
-        },
-        image: "images/PAGE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Knight of Pentacles",
-            zh: "星币骑士"
-        },
-        meaning: {
-            en: "Hard work, productivity, routine, conservatism.",
-            zh: "辛勤工作，生产力，日常，保守。"
-        },
-        image: "images/KNIGHT PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Queen of Pentacles",
-            zh: "星币王后"
-        },
-        meaning: {
-            en: "Practicality, creature comforts, financial security, nurturing.",
-            zh: "务实，舒适，财务安全，养育。"
-        },
-        image: "images/QUEEN PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "King of Pentacles",
-            zh: "星币国王"
-        },
-        meaning: {
-            en: "Wealth, business, leadership, security, discipline.",
-            zh: "财富，商业，领导力，安全，纪律。"
-        },
-        image: "images/KING PENTACLES.webp"
-    },
-
-    // 圣杯（Cups）
-    {
-        name: {
-            en: "Ace of Cups",
-            zh: "圣杯王牌"
-        },
-        meaning: {
-            en: "Emotional fulfillment, new relationships, compassion.",
-            zh: "情感满足，新关系，怜悯。"
-        },
-        image: "images/ACE CUPS.webp"
-    },
-    {
-        name: {
-            en: "Page of Cups",
-            zh: "圣杯侍者"
-        },
-        meaning: {
-            en: "Creative opportunities, intuitive messages, curiosity.",
-            zh: "创造性的机会，直觉的信息，好奇心。"
-        },
-        image: "images/PAGE CUPS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Cups",
-            zh: "圣杯骑士"
-        },
-        meaning: {
-            en: "Romance, charm, imagination, beauty, creativity.",
-            zh: "浪漫，魅力，想象，美丽，创造力。"
-        },
-        image: "images/KNIGHT CUPS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Cups",
-            zh: "圣杯王后"
-        },
-        meaning: {
-            en: "Compassionate, caring, emotionally stable, intuitive.",
-            zh: "富有同情心，关怀，情感稳定，直觉。"
-        },
-        image: "images/QUEEN CUPS.webp"
-    },
-    {
-        name: {
-            en: "King of Cups",
-            zh: "圣杯国王"
-        },
-        meaning: {
-            en: "Emotionally balanced, compassionate, diplomatic.",
-            zh: "情感平衡，富有同情心，外交。"
-        },
-        image: "images/KING CUPS.webp"
-    },
-
-    // 剑（Swords）
-    {
-        name: {
-            en: "Ace of Swords",
-            zh: "剑王牌"
-        },
-        meaning: {
-            en: "Breakthroughs, new ideas, mental clarity, success.",
-            zh: "突破，新想法，精神清晰，成功。"
-        },
-        image: "images/ACE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Swords",
-            zh: "剑二"
-        },
-        meaning: {
-            en: "Difficult choices, indecision, stalemate, blocked emotions.",
-            zh: "艰难选择，优柔寡断，僵局，情感阻塞。"
-        },
-        image: "images/SWORDS2.webp"
-    },
-    {
-        name: {
-            en: "Three of Swords",
-            zh: "剑三"
-        },
-        meaning: {
-            en: "Heartbreak, emotional pain, sorrow, grief.",
-            zh: "心碎，情感痛苦，悲伤，悲痛。"
-        },
-        image: "images/SHENGBEl3.webp"
-    },
-    {
-        name: {
-            en: "Four of Swords",
-            zh: "剑四"
-        },
-        meaning: {
-            en: "Rest, relaxation, meditation, contemplation.",
-            zh: "休息，放松，冥想，沉思。"
-        },
-        image: "images/SWORDS4.webp"
-    },
-    {
-        name: {
-            en: "Five of Swords",
-            zh: "剑五"
-        },
-        meaning: {
-            en: "Conflict, disagreements, competition, defeat.",
-            zh: "冲突，分歧，竞争，失败。"
-        },
-        image: "images/SWORDS5.webp"
-    },
-    {
-        name: {
-            en: "Six of Swords",
-            zh: "剑六"
-        },
-        meaning: {
-            en: "Transition, change, rite of passage, releasing baggage.",
-            zh: "过渡，变化，仪式通行，释放包袱。"
-        },
-        image: "images/SWORDS6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Swords",
-            zh: "剑七"
-        },
-        meaning: {
-            en: "Betrayal, deception, getting away with something.",
-            zh: "背叛，欺骗，逃避责任。"
-        },
-        image: "images/SHENGBEl6.webp"
-    },
-    {
-        name: {
-            en: "Eight of Swords",
-            zh: "剑八"
-        },
-        meaning: {
-            en: "Self-imposed restriction, fear, isolation, imprisonment.",
-            zh: "自我限制，恐惧，孤立，监禁。"
-        },
-        image: "images/SWORDS8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Swords",
-            zh: "剑九"
-        },
-        meaning: {
-            en: "Anxiety, worry, fear, depression, nightmares.",
-            zh: "焦虑，担忧，恐惧，抑郁，噩梦。"
-        },
-        image: "images/SHENGBEI9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Swords",
-            zh: "剑十"
-        },
-        meaning: {
-            en: "Endings, betrayal, loss, crisis, failure.",
-            zh: "结束，背叛，失落，危机，失败。"
-        },
-        image: "images/SWORDS10.webp"
-    },
-    {
-        name: {
-            en: "Page of Swords",
-            zh: "剑侍者"
-        },
-        meaning: {
-            en: "Curiosity, restlessness, mental energy, communication.",
-            zh: "好奇，躁动，精神能量，沟通。"
-        },
-        image: "images/PAGE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Swords",
-            zh: "剑骑士"
-        },
-        meaning: {
-            en: "Action-oriented, ambitious, driven to succeed, fast thinking.",
-            zh: "行动导向，有雄心，驱动力强，思维迅速。"
-        },
-        image: "images/KNIGHT SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Swords",
-            zh: "剑王后"
-        },
-        meaning: {
-            en: "Independent, unbiased judgment, clear boundaries, direct communication.",
-            zh: "独立，公正判断，明确界限，直接沟通。"
-        },
-        image: "images/QUEEN SWORDS.webp"
-    },
-    {
-        name: {
-            en: "King of Swords",
-            zh: "剑国王"
-        },
-        meaning: {
-            en: "Intellectual, authoritative, strategic thinker, truth seeker.",
-            zh: "智者，权威，战略思考者，真理追求者。"
-        },
-        image: "images/KING SWORDS.webp"
-    },
-
-    // 星币（Pentacles）
-    {
-        name: {
-            en: "Ace of Pentacles",
-            zh: "星币王牌"
-        },
-        meaning: {
-            en: "New financial or career opportunity, manifestation, abundance.",
-            zh: "新的财务或职业机会，显化，丰盛。"
-        },
-        image: "images/ACE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Two of Pentacles",
-            zh: "星币二"
-        },
-        meaning: {
-            en: "Balance, adaptability, time management, prioritization.",
-            zh: "平衡，适应性，时间管理，优先级。"
-        },
-        image: "images/PENTACLE2.webp"
-    },
-    {
-        name: {
-            en: "Three of Pentacles",
-            zh: "星币三"
-        },
-        meaning: {
-            en: "Teamwork, collaboration, learning, implementation.",
-            zh: "团队合作，协作，学习，实施。"
-        },
-        image: "images/PENTACLE3.webp"
-    },
-    {
-        name: {
-            en: "Four of Pentacles",
-            zh: "星币四"
-        },
-        meaning: {
-            en: "Control, stability, security, conservatism.",
-            zh: "控制，稳定，安全，保守。"
-        },
-        image: "images/PENTACLE4.webp"
-    },
-    {
-        name: {
-            en: "Five of Pentacles",
-            zh: "星币五"
-        },
-        meaning: {
-            en: "Financial loss, poverty, insecurity, worry, health issues.",
-            zh: "财务损失，贫困，不安全，担忧，健康问题。"
-        },
-        image: "images/PENTACLE5.webp"
-    },
-    {
-        name: {
-            en: "Six of Pentacles",
-            zh: "星币六"
-        },
-        meaning: {
-            en: "Generosity, charity, sharing wealth, balance between giving and receiving.",
-            zh: "慷慨，慈善，共享财富，给予与接受之间的平衡。"
-        },
-        image: "images/PENTACLE6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Pentacles",
-            zh: "星币七"
-        },
-        meaning: {
-            en: "Patience, perseverance, investment, growth, assessment.",
-            zh: "耐心，坚持，投资，成长，评估。"
-        },
-        image: "images/PENTACLE7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Pentacles",
-            zh: "星币八"
-        },
-        meaning: {
-            en: "Apprenticeship, education, training, improvement, dedication.",
-            zh: "学徒，教育，培训，改进，奉献。"
-        },
-        image: "images/PENTACLE8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Pentacles",
-            zh: "星币九"
-        },
-        meaning: {
-            en: "Luxury, self-sufficiency, financial gain, independence.",
-            zh: "奢华，自给自足，财务收益，独立。"
-        },
-        image: "images/PENTACLE9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Pentacles",
-            zh: "星币十"
-        },
-        meaning: {
-            en: "Wealth, financial security, family, long-term success, legacy.",
-            zh: "财富，财务安全，家庭，长期成功，遗产。"
-        },
-        image: "images/PENTACLE10.webp"
-    },
-    {
-        name: {
-            en: "Page of Pentacles",
-            zh: "星币侍者"
-        },
-        meaning: {
-            en: "Manifestation, financial opportunity, skill development.",
-            zh: "显化，财务机会，技能发展。"
-        },
-        image: "images/PAGE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Knight of Pentacles",
-            zh: "星币骑士"
-        },
-        meaning: {
-            en: "Hard work, productivity, routine, conservatism.",
-            zh: "辛勤工作，生产力，日常，保守。"
-        },
-        image: "images/KNIGHT PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Queen of Pentacles",
-            zh: "星币王后"
-        },
-        meaning: {
-            en: "Practicality, creature comforts, financial security, nurturing.",
-            zh: "务实，舒适，财务安全，养育。"
-        },
-        image: "images/QUEEN PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "King of Pentacles",
-            zh: "星币国王"
-        },
-        meaning: {
-            en: "Wealth, business, leadership, security, discipline.",
-            zh: "财富，商业，领导力，安全，纪律。"
-        },
-        image: "images/KING PENTACLES.webp"
+        image: "images/KING_PENTACLES.webp"
     },
     
-    // 圣杯（Cups）
-    {
-        name: {
-            en: "Ace of Cups",
-            zh: "圣杯王牌"
-        },
-        meaning: {
-            en: "Emotional fulfillment, new relationships, compassion.",
-            zh: "情感满足，新关系，怜悯。"
-        },
-        image: "images/ACE CUPS.webp"
-    },
-    {
-        name: {
-            en: "Page of Cups",
-            zh: "圣杯侍者"
-        },
-        meaning: {
-            en: "Creative opportunities, intuitive messages, curiosity.",
-            zh: "创造性的机会，直觉的信息，好奇心。"
-        },
-        image: "images/PAGE CUPS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Cups",
-            zh: "圣杯骑士"
-        },
-        meaning: {
-            en: "Romance, charm, imagination, beauty, creativity.",
-            zh: "浪漫，魅力，想象，美丽，创造力。"
-        },
-        image: "images/KNIGHT CUPS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Cups",
-            zh: "圣杯王后"
-        },
-        meaning: {
-            en: "Compassionate, caring, emotionally stable, intuitive.",
-            zh: "富有同情心，关怀，情感稳定，直觉。"
-        },
-        image: "images/QUEEN CUPS.webp"
-    },
-    {
-        name: {
-            en: "King of Cups",
-            zh: "圣杯国王"
-        },
-        meaning: {
-            en: "Emotionally balanced, compassionate, diplomatic.",
-            zh: "情感平衡，富有同情心，外交。"
-        },
-        image: "images/KING CUPS.webp"
-    },
-
-    // 剑（Swords）
-    {
-        name: {
-            en: "Ace of Swords",
-            zh: "剑王牌"
-        },
-        meaning: {
-            en: "Breakthroughs, new ideas, mental clarity, success.",
-            zh: "突破，新想法，精神清晰，成功。"
-        },
-        image: "images/ACE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Swords",
-            zh: "剑二"
-        },
-        meaning: {
-            en: "Difficult choices, indecision, stalemate, blocked emotions.",
-            zh: "艰难选择，优柔寡断，僵局，情感阻塞。"
-        },
-        image: "images/SWORDS2.webp"
-    },
-    {
-        name: {
-            en: "Three of Swords",
-            zh: "剑三"
-        },
-        meaning: {
-            en: "Heartbreak, emotional pain, sorrow, grief.",
-            zh: "心碎，情感痛苦，悲伤，悲痛。"
-        },
-        image: "images/SHENGBEl3.webp"
-    },
-    {
-        name: {
-            en: "Four of Swords",
-            zh: "剑四"
-        },
-        meaning: {
-            en: "Rest, relaxation, meditation, contemplation.",
-            zh: "休息，放松，冥想，沉思。"
-        },
-        image: "images/SWORDS4.webp"
-    },
-    {
-        name: {
-            en: "Five of Swords",
-            zh: "剑五"
-        },
-        meaning: {
-            en: "Conflict, disagreements, competition, defeat.",
-            zh: "冲突，分歧，竞争，失败。"
-        },
-        image: "images/SWORDS5.webp"
-    },
-    {
-        name: {
-            en: "Six of Swords",
-            zh: "剑六"
-        },
-        meaning: {
-            en: "Transition, change, rite of passage, releasing baggage.",
-            zh: "过渡，变化，仪式通行，释放包袱。"
-        },
-        image: "images/SWORDS6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Swords",
-            zh: "剑七"
-        },
-        meaning: {
-            en: "Betrayal, deception, getting away with something.",
-            zh: "背叛，欺骗，逃避责任。"
-        },
-        image: "images/SHENGBEl6.webp"
-    },
-    {
-        name: {
-            en: "Eight of Swords",
-            zh: "剑八"
-        },
-        meaning: {
-            en: "Self-imposed restriction, fear, isolation, imprisonment.",
-            zh: "自我限制，恐惧，孤立，监禁。"
-        },
-        image: "images/SWORDS8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Swords",
-            zh: "剑九"
-        },
-        meaning: {
-            en: "Anxiety, worry, fear, depression, nightmares.",
-            zh: "焦虑，担忧，恐惧，抑郁，噩梦。"
-        },
-        image: "images/SHENGBEI9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Swords",
-            zh: "剑十"
-        },
-        meaning: {
-            en: "Endings, betrayal, loss, crisis, failure.",
-            zh: "结束，背叛，失落，危机，失败。"
-        },
-        image: "images/SWORDS10.webp"
-    },
-    {
-        name: {
-            en: "Page of Swords",
-            zh: "剑侍者"
-        },
-        meaning: {
-            en: "Curiosity, restlessness, mental energy, communication.",
-            zh: "好奇，躁动，精神能量，沟通。"
-        },
-        image: "images/PAGE SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Swords",
-            zh: "剑骑士"
-        },
-        meaning: {
-            en: "Action-oriented, ambitious, driven to succeed, fast thinking.",
-            zh: "行动导向，有雄心，驱动力强，思维迅速。"
-        },
-        image: "images/KNIGHT SWORDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Swords",
-            zh: "剑王后"
-        },
-        meaning: {
-            en: "Independent, unbiased judgment, clear boundaries, direct communication.",
-            zh: "独立，公正判断，明确界限，直接沟通。"
-        },
-        image: "images/QUEEN SWORDS.webp"
-    },
-    {
-        name: {
-            en: "King of Swords",
-            zh: "剑国王"
-        },
-        meaning: {
-            en: "Intellectual, authoritative, strategic thinker, truth seeker.",
-            zh: "智者，权威，战略思考者，真理追求者。"
-        },
-        image: "images/KING SWORDS.webp"
-    },
-
-    // 权杖（Wands）
-    {
-        name: {
-            en: "Ace of Wands",
-            zh: "权杖王牌"
-        },
-        meaning: {
-            en: "Inspiration, new opportunities, growth, potential.",
-            zh: "灵感，新机会，成长，潜力。"
-        },
-        image: "images/ACE WANDS.webp"
-    },
-    {
-        name: {
-            en: "Two of Wands",
-            zh: "权杖二"
-        },
-        meaning: {
-            en: "Future planning, progress, decisions, discovery.",
-            zh: "未来规划，进展，决策，发现。"
-        },
-        image: "images/QUANZHANG2.webp"
-    },
-    {
-        name: {
-            en: "Three of Wands",
-            zh: "权杖三"
-        },
-        meaning: {
-            en: "Looking ahead, expansion, overseas opportunities.",
-            zh: "展望，扩展，海外机会。"
-        },
-        image: "images/QUANZHANG3.webp"
-    },
-    {
-        name: {
-            en: "Four of Wands",
-            zh: "权杖四"
-        },
-        meaning: {
-            en: "Celebration, harmony, marriage, home, community.",
-            zh: "庆祝，和谐，婚姻，家庭，社区。"
-        },
-        image: "images/QUANZHANG4.webp"
-    },
-    {
-        name: {
-            en: "Five of Wands",
-            zh: "权杖五"
-        },
-        meaning: {
-            en: "Conflict, competition, diversity, challenges.",
-            zh: "冲突，竞争，多样性，挑战。"
-        },
-        image: "images/QUANZHANG5.webp"
-    },
-    {
-        name: {
-            en: "Six of Wands",
-            zh: "权杖六"
-        },
-        meaning: {
-            en: "Victory, success, public recognition.",
-            zh: "胜利，成功，公众认可。"
-        },
-        image: "images/QUANZHANG6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Wands",
-            zh: "权杖七"
-        },
-        meaning: {
-            en: "Perseverance, defense, maintaining control.",
-            zh: "毅力，防御，保持控制。"
-        },
-        image: "images/QUANZHANG7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Wands",
-            zh: "权杖八"
-        },
-        meaning: {
-            en: "Movement, fast-paced change, action, alignment.",
-            zh: "移动，快速变化，行动，对齐。"
-        },
-        image: "images/QUANZHANG8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Wands",
-            zh: "权杖九"
-        },
-        meaning: {
-            en: "Resilience, courage, persistence, test of faith.",
-            zh: "韧性，勇气，坚持，信念的考验。"
-        },
-        image: "images/QUANZHANG9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Wands",
-            zh: "权杖十"
-        },
-        meaning: {
-            en: "Burden, responsibility, hard work, stress.",
-            zh: "负担，责任，辛勤工作，压力。"
-        },
-        image: "images/QUANZHANG10.webp"
-    },
-    {
-        name: {
-            en: "Page of Wands",
-            zh: "权杖侍者"
-        },
-        meaning: {
-            en: "Enthusiasm, exploration, discovery, free spirit.",
-            zh: "热情，探索，发现，独立精神。"
-        },
-        image: "images/PAGE WANDS.webp"
-    },
-    {
-        name: {
-            en: "Knight of Wands",
-            zh: "权杖骑士"
-        },
-        meaning: {
-            en: "Energy, passion, inspired action, adventure.",
-            zh: "能量，激情，有启发的行动，冒险。"
-        },
-        image: "images/KNIGHT WANDS.webp"
-    },
-    {
-        name: {
-            en: "Queen of Wands",
-            zh: "权杖王后"
-        },
-        meaning: {
-            en: "Courage, confidence, independence, social butterfly.",
-            zh: "勇气，自信，独立，社交达人。"
-        },
-        image: "images/QUEEN WANDS.webp"
-    },
-    {
-        name: {
-            en: "King of Wands",
-            zh: "权杖国王"
-        },
-        meaning: {
-            en: "Leadership, vision, entrepreneur, honor.",
-            zh: "领导力，愿景，企业家，荣誉。"
-        },
-        image: "images/KING WANDS.webp"
-    },
-
-    // 星币（Pentacles）
-    {
-        name: {
-            en: "Ace of Pentacles",
-            zh: "星币王牌"
-        },
-        meaning: {
-            en: "New financial or career opportunity, manifestation, abundance.",
-            zh: "新的财务或职业机会，显化，丰盛。"
-        },
-        image: "images/ACE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Two of Pentacles",
-            zh: "星币二"
-        },
-        meaning: {
-            en: "Balance, adaptability, time management, prioritization.",
-            zh: "平衡，适应性，时间管理，优先级。"
-        },
-        image: "images/PENTACLE2.webp"
-    },
-    {
-        name: {
-            en: "Three of Pentacles",
-            zh: "星币三"
-        },
-        meaning: {
-            en: "Teamwork, collaboration, learning, implementation.",
-            zh: "团队合作，协作，学习，实施。"
-        },
-        image: "images/PENTACLE3.webp"
-    },
-    {
-        name: {
-            en: "Four of Pentacles",
-            zh: "星币四"
-        },
-        meaning: {
-            en: "Control, stability, security, conservatism.",
-            zh: "控制，稳定，安全，保守。"
-        },
-        image: "images/PENTACLE4.webp"
-    },
-    {
-        name: {
-            en: "Five of Pentacles",
-            zh: "星币五"
-        },
-        meaning: {
-            en: "Financial loss, poverty, insecurity, worry, health issues.",
-            zh: "财务损失，贫困，不安全，担忧，健康问题。"
-        },
-        image: "images/PENTACLE5.webp"
-    },
-    {
-        name: {
-            en: "Six of Pentacles",
-            zh: "星币六"
-        },
-        meaning: {
-            en: "Generosity, charity, sharing wealth, balance between giving and receiving.",
-            zh: "慷慨，慈善，共享财富，给予与接受之间的平衡。"
-        },
-        image: "images/PENTACLE6.webp"
-    },
-    {
-        name: {
-            en: "Seven of Pentacles",
-            zh: "星币七"
-        },
-        meaning: {
-            en: "Patience, perseverance, investment, growth, assessment.",
-            zh: "耐心，坚持，投资，成长，评估。"
-        },
-        image: "images/PENTACLE7.webp"
-    },
-    {
-        name: {
-            en: "Eight of Pentacles",
-            zh: "星币八"
-        },
-        meaning: {
-            en: "Apprenticeship, education, training, improvement, dedication.",
-            zh: "学徒，教育，培训，改进，奉献。"
-        },
-        image: "images/PENTACLE8.webp"
-    },
-    {
-        name: {
-            en: "Nine of Pentacles",
-            zh: "星币九"
-        },
-        meaning: {
-            en: "Luxury, self-sufficiency, financial gain, independence.",
-            zh: "奢华，自给自足，财务收益，独立。"
-        },
-        image: "images/PENTACLE9.webp"
-    },
-    {
-        name: {
-            en: "Ten of Pentacles",
-            zh: "星币十"
-        },
-        meaning: {
-            en: "Wealth, financial security, family, long-term success, legacy.",
-            zh: "财富，财务安全，家庭，长期成功，遗产。"
-        },
-        image: "images/PENTACLE10.webp"
-    },
-    {
-        name: {
-            en: "Page of Pentacles",
-            zh: "星币侍者"
-        },
-        meaning: {
-            en: "Manifestation, financial opportunity, skill development.",
-            zh: "显化，财务机会，技能发展。"
-        },
-        image: "images/PAGE PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Knight of Pentacles",
-            zh: "星币骑士"
-        },
-        meaning: {
-            en: "Hard work, productivity, routine, conservatism.",
-            zh: "辛勤工作，生产力，日常，保守。"
-        },
-        image: "images/KNIGHT PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "Queen of Pentacles",
-            zh: "星币王后"
-        },
-        meaning: {
-            en: "Practicality, creature comforts, financial security, nurturing.",
-            zh: "务实，舒适，财务安全，养育。"
-        },
-        image: "images/QUEEN PENTACLES.webp"
-    },
-    {
-        name: {
-            en: "King of Pentacles",
-            zh: "星币国王"
-        },
-        meaning: {
-            en: "Wealth, business, leadership, security, discipline.",
-            zh: "财富，商业，领导力，安全，纪律。"
-        },
-        image: "images/KING PENTACLES.webp"
-    },
-
     // 完整的 tarorCards 数组已经包含78张塔罗牌的信息
 ];
 
