@@ -868,8 +868,6 @@ const tarotCards = [
         },
         image: "images/KING_PENTACLES.webp"
     },
-    
-    // 完整的 tarorCards 数组已经包含78张塔罗牌的信息
 ];
 
 // 当前语言，默认英文
@@ -903,8 +901,8 @@ const translations = {
         zh: "thisufuture"
     },
     intro: {
-        en: "Welcome to Thisufuture! Discover what the Tarot has in store for you.",
-        zh: "欢迎来到thisufuture！探索塔罗牌为您准备的内容。"
+        en: "Welcome to Thisufuture! Discover what the Tarot has in store for your future.",
+        zh: "相信这就是你的未来！塔罗牌为你揭示未来。"
     },
     start_test: {
         en: "Start Tarot Test",
