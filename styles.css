@@ -51,8 +51,7 @@ header {
 }
 
 main {
-    flex: 1;
-    padding: 40px 20px;
+    margin-top: 150px; /* 调整整体位置 */
     text-align: center;
 }
 
@@ -89,8 +88,10 @@ main {
 }
 
 .card-description {
-    margin-top: 20px;
-    max-width: 600px;
+    font-family: 'Arial', sans-serif; /* 修改字体 */
+    color: #f0f0f0; /* 调整文字颜色 */
+    text-align: center; /* 居中对齐 */
+    margin-top: 15px; /* 调整距离 */
 }
 
 footer {
