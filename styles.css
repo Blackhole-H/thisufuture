@@ -1,3 +1,13 @@
+#background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* 确保视频覆盖整个屏幕 */
+    z-index: -1; /* 放置在内容后面 */
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -6,20 +16,23 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
-    color: #333;
-    min-height: 100vh;
+    color: #fff; /* 让文字颜色为白色，避免与视频背景冲突 */
+    background: none; /* 移除默认背景色 */
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
 }
 
 header {
-    background-color: #4b2e83;
+    background-color: rgba(0, 0, 0, 0.5); /* 添加透明背景让文字更清晰 */
     color: #fff;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 1;
 }
 
 .language-switch button {
